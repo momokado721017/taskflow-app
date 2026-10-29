@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "TaskFlow — To Do と達成の記録",
+  "short_name": "TaskFlow",
+  "description": "日々のタスク、カレンダー、オペレーション、達成ステッカーをまとめて管理",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f7fb",
+  "theme_color": "#3869c8",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
